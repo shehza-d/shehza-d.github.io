@@ -10,58 +10,46 @@ I work primarily across the TypeScript ecosystem, from responsive React and Next
 
 I enjoy building in public, maintaining learning resources, and working with people who care about useful software and accessible technical education. If you are working on something interesting, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/shehza-d/) or [GitHub](https://github.com/shehza-d).
 
-## Selected Projects
+## Recent Projects
 
-### [Teaching Web at SMIT — Batch 11](https://github.com/shehza-d/teaching-web-at-SMIT-B11)
+- [Teaching Web at SMIT — Batch 11](https://github.com/shehza-d/teaching-web-at-SMIT-B11)
 
-*Teaching · JavaScript · Open learning*
+  *Teaching · JavaScript · Open learning*
 
-A public teaching repository that organizes web-development material and examples for students at the Bahadurabad campus. [View the repository](https://github.com/shehza-d/teaching-web-at-SMIT-B11) or follow the [YouTube course](https://www.youtube.com/playlist?list=PLfeF4MOSc907uDxYgXRS_R6kB28wJHflx&si=XZGWm7ZBm4JVVkmy).
+  A public teaching repository that organizes web-development material and examples for students at the Bahadurabad campus. [View the repository](https://github.com/shehza-d/teaching-web-at-SMIT-B11) or follow the [YouTube course](https://www.youtube.com/playlist?list=PLfeF4MOSc907uDxYgXRS_R6kB28wJHflx&si=XZGWm7ZBm4JVVkmy).
 
-### [Quiz App](https://github.com/shehza-d/quiz-app)
+- [SMIT Hackathons](https://github.com/shehza-d/smit-hackathons)
 
-*React · TypeScript · Product UI*
+  *Education · Hackathons · Community*
 
-A React and TypeScript quiz application focused on a clear interaction flow and practical component architecture.
-
-### [Data Structures & Algorithms](https://github.com/shehza-d/DSA)
-
-*C++ · DSA · Problem solving*
-
-A growing collection of data-structure, object-oriented programming, and competitive-programming exercises in C++.
-
-### [SMIT Hackathons](https://github.com/shehza-d/smit-hackathons)
-
-*Education · Hackathons · Community*
-
-A collection of past student hackathon projects kept available as practice material and teaching references.
+  A collection of past student hackathon projects kept available as practice material and teaching references.
 
 ## Experience
 
-### Web Development Instructor
+- **Web Development Instructor**
 
-*Saylani Mass IT Training · Current*
+  *Saylani Mass IT Training · Current*
 
-I teach modern web development through structured lessons, practical exercises, and project-based learning.
+  I teach modern web development through structured lessons, practical exercises, and project-based learning.
 
-- Guide students from core web concepts into JavaScript and application development.
-- Maintain public class resources for continued learning.
-- Connect implementation details with problem-solving, code quality, and real-world delivery.
+  - Guide students from core web concepts into JavaScript and application development.
+  - Maintain public class resources for continued learning.
+  - Connect implementation details with problem-solving, code quality, and real-world delivery.
 
-### Computer Science Educator
+- **Computer Science Educator**
 
-*Bahria College · Current*
+  *Bahria College · Current*
 
-I support students in building strong computing foundations, confidence, and practical technical skills.
+  I support students in building strong computing foundations, confidence, and practical technical skills.
 
-- Design approachable explanations for programming and computing concepts.
-- Use hands-on examples to connect theory with software behavior.
+  - Design approachable explanations for programming and computing concepts.
+  - Use hands-on examples to connect theory with software behavior.
 
-### Software & Web Developer
+- **Software & Web Developer**
 
-*Independent work · Ongoing*
+  *Independent work · Ongoing*
 
-I design and build web applications with a focus on maintainable code, responsive interfaces, and useful outcomes.
+  I design and build web applications with a focus on maintainable code, responsive interfaces, and useful outcomes.
 
 ## Teaching
 

@@ -7,6 +7,7 @@ lang: en
 profile:
   name: Shehzad Iqbal
   role: PhD Aspirant, Software Developer, Educator
+  email: shehzad.dev@pm.me
   location: Karachi, Pakistan
   image: "https://github.com/shehza-d.png?size=600"
   image_alt: Portrait of Shehzad Iqbal
@@ -18,9 +19,9 @@ social_links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/shehza-d/"
     icon: linkedin
-  - label: Portfolio
-    url: "https://shehzad.vercel.app"
-    icon: website
+  - label: YouTube
+    url: "https://youtube.com/@shehza-d"
+    icon: youtube
 
 navigation:
   - label: Projects
