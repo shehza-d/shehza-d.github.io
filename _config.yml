@@ -1,0 +1,44 @@
+title: Shehzad Iqbal
+description: Software developer, educator, and PhD aspirant working across web engineering, teaching, and cybersecurity.
+url: "https://shehza-d.github.io"
+baseurl: "/phd-cv"
+lang: en
+
+profile:
+  name: Shehzad Iqbal
+  role: PhD Aspirant, Software Developer, Educator
+  location: Karachi, Pakistan
+  image: "https://github.com/shehza-d.png?size=600"
+  image_alt: Portrait of Shehzad Iqbal
+
+social_links:
+  - label: GitHub
+    url: "https://github.com/shehza-d"
+    icon: github
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/shehza-d/"
+    icon: linkedin
+  - label: Portfolio
+    url: "https://shehzad.vercel.app"
+    icon: website
+
+navigation:
+  - label: Projects
+    url: "#selected-projects"
+  - label: Experience
+    url: "#experience"
+  - label: Teaching
+    url: "#teaching"
+  - label: Skills
+    url: "#skills"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
