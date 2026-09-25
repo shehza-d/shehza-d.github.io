@@ -24,6 +24,15 @@ I enjoy building in public, maintaining learning resources, and working with peo
 
   A collection of past student hackathon projects kept available as practice material and teaching references.
 
+## Education
+
+- **Bachelor of Computer Science** — *CGPA 3.2*
+
+  Virtual University — *2023-2027*
+- Web Application Development Diploma
+
+  Saylani SMIT — 2022
+
 ## Experience
 
 - **Web Development Instructor**
@@ -73,12 +82,17 @@ Teaching is central to my work. I care about making technical ideas understandab
 ## Skills & Interests
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, REST APIs, authentication, databases, application architecture
+- **Backend:** Node.js, MongoDB, REST APIs, authentication, databases, application architecture
 - **Practice:** Git and GitHub, responsive design, accessibility, problem solving, technical mentoring
-- **Current focus:** secure coding, cybersecurity, data structures and algorithms, systems thinking
+- **Current focus:** Secure coding, cybersecurity, data structures and algorithms, systems thinking
+- **Interests:** Public Speaking, Teaching, and taking part in CP Competitions
 
 ## Achievements & Highlights
 
+- Taught coding to 500+ students
+- 200+ Problems solved at [LeetCode](https://leetcode.com/u/shehza-d)
+- Participated in Code in Place by Stanford University, CS50x Puzzle Day by Harvard and Meta
+Hacker Cup by Facebook
 - **Open-source learning resources** — Maintain public teaching repositories used for coursework, practice, hackathons, and independent learning.
 - **Developer community presence** — Share code and learning material across a public GitHub portfolio spanning web development, algorithms, and education.
 - **Cybersecurity direction** — Building on a software-engineering foundation with focused study in secure coding, systems, and cybersecurity practice.
