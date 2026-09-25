@@ -87,7 +87,7 @@ profile:
 To use a local image, save it as `assets/images/profile.jpg` and change the value to:
 
 ```yml
-image: "/phd-cv/assets/images/profile.jpg"
+image: "/assets/images/profile.jpg"
 ```
 
 ## Local development
@@ -105,14 +105,13 @@ Open `http://localhost:4000`.
 
 The workflow at `.github/workflows/deploy.yml` builds and deploys the Jekyll site after every push to `main`.
 
-1. Push this project to a GitHub repository named `phd-cv`.
+1. Push this project to the `shehza-d/shehza-d.github.io` repository.
 2. Open **Settings → Pages** in that repository.
 3. Set **Source** to **GitHub Actions**.
 4. Push a change to `main` or run the workflow manually from the **Actions** tab.
 
-The configured address is `https://shehza-d.github.io/phd-cv/`. If the repository name changes, update `baseurl` in `_config.yml`. If a custom domain is added, update `url`, clear `baseurl`, and add the domain to `CNAME`.
+The configured address is `https://shehza-d.github.io/`. Because this is a root user-site repository, `baseurl` must remain empty. If a custom domain is added, update `url` and add the domain to `CNAME`.
 
 ## Typography note
 
 The reference site uses Open Sans. This portfolio uses Ubuntu as requested while preserving the reference site's font sizes, line heights, width, spacing, colors, and responsive behavior.
-
